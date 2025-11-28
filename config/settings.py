@@ -135,4 +135,4 @@ from app.bot import bot
 
 BOT_TOKEN = "7565458272:AAFuzHXmsa9uqBUxXckk4paQTClgQ33Xjfs"
 
-WEBHOOK_URL = "https://your-render-app.onrender.com/bot/webhook/"
+WEBHOOK_URL = "https://islom-shop-bot.onrender.com/bot/webhook/"
